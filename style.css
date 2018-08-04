@@ -8,35 +8,62 @@ body {
 
 header {
     background: #ebebeb;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
 }
 
 nav {
     background: #ebebeb;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
 }
 
 section {
     background: #ebebeb;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    width: 495px;
 }
 
 aside {
     background: #ebebeb;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    float: right;
+    
 }
 
 footer {
     background: #ebebeb;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
 }
 
 article {
     color: #ebebeb;
     background: #777;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
 }
 
 h1 {
     color: #777;
     background: #ebebeb;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
 }
 
 p {
     color: #777;
     background: #ebebeb;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
 }

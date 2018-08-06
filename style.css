@@ -23,9 +23,11 @@ nav {
 section {
     background: #ebebeb;
     text-align: center;
-    padding: 1em;
+    padding: 10px;
     margin: 1em;
+    margin-right: 0px;
     width: 495px;
+    float: left;
 }
 
 aside {
@@ -34,7 +36,8 @@ aside {
     padding: 1em;
     margin: 1em;
     float: right;
-    
+    width: 350px;
+    height: 280px;
 }
 
 footer {
@@ -42,6 +45,7 @@ footer {
     text-align: center;
     padding: 1em;
     margin: 1em;
+    clear: both;
 }
 
 article {

@@ -23,10 +23,11 @@ nav {
 section {
     background: #ebebeb;
     text-align: center;
-    padding: 10px;
+    padding: 1em;
     margin: 1em;
     margin-right: 0px;
     width: 495px;
+    height: 275px;
     float: left;
 }
 
@@ -35,9 +36,10 @@ aside {
     text-align: center;
     padding: 1em;
     margin: 1em;
+    margin-left: 10px;
     float: right;
-    width: 350px;
-    height: 280px;
+    width: 340px;
+    height: 275px;
 }
 
 footer {
@@ -45,6 +47,7 @@ footer {
     text-align: center;
     padding: 1em;
     margin: 1em;
+    margin-top: 20px;
     clear: both;
 }
 
@@ -53,21 +56,32 @@ article {
     background: #777;
     text-align: center;
     padding: 1em;
-    margin: 1em;
+    margin: 0.1em;
+    margin-top: 1em;
+    height: 200px;
 }
 
 h1 {
     color: #777;
     background: #ebebeb;
     text-align: center;
-    padding: 1em;
-    margin: 1em;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    bottom: -20px;
 }
 
 p {
     color: #777;
     background: #ebebeb;
     text-align: center;
-    padding: 1em;
-    margin: 1em;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    bottom: -30px;
+}
+
+div {
+    margin-bottom: 100px;
+    padding: 1px;
 }
